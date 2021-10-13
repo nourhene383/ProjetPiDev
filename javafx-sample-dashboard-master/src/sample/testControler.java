@@ -169,7 +169,7 @@ public class testControler implements Initializable {
 
     pays = comboP.getSelectionModel().getSelectedItem().toString();
 
-
+/* comboboxx test mahdi*/
     }
 
 
