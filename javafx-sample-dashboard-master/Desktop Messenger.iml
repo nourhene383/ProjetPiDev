@@ -9,35 +9,38 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mysql-connector-java-5.1.23-bin" level="application" />
-    <orderEntry type="library" name="javafx-swt" level="project" />
-    <orderEntry type="library" name="jfxtras-icalendarfx-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-controls-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-icalendaragenda-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-labs-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-menu-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-test-support-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-window-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-gauge-linear-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-fxml-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-font-roboto-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-common-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-all-8.0-r6" level="project" />
-    <orderEntry type="library" name="jfxtras-agenda-8.0-r6" level="project" />
-    <orderEntry type="library" name="jplanets-fileutils-1.3" level="project" />
-    <orderEntry type="library" name="jplanets-logging-2.2" level="project" />
-    <orderEntry type="library" name="log4j-1.2.17" level="project" />
-    <orderEntry type="library" name="protobuf-java-3.6.1" level="project" />
-    <orderEntry type="library" name="slf4j-api-1.7.23" level="project" />
-    <orderEntry type="library" name="slf4j-api-2.0.0-alpha1" level="project" />
-    <orderEntry type="library" name="javase-3.3.0" level="project" />
-    <orderEntry type="library" name="core-3.3.3" level="project" />
-    <orderEntry type="library" name="zxing" level="project" />
-    <orderEntry type="library" name="fxsampler-1.0.10" level="project" />
-    <orderEntry type="library" name="JavaFileUploader" level="project" />
     <orderEntry type="library" name="Accueil" level="project" />
     <orderEntry type="library" name="bridj-0.7.0" level="project" />
     <orderEntry type="library" name="controlsfx-8.40.14" level="project" />
     <orderEntry type="library" name="controlsfx-samples-8.40.13" level="project" />
+    <orderEntry type="library" name="core-3.3.3" level="project" />
+    <orderEntry type="library" name="fxsampler-1.0.10" level="project" />
     <orderEntry type="library" name="itextpdf-5.4.0" level="project" />
+    <orderEntry type="library" name="JavaFileUploader" level="project" />
+    <orderEntry type="library" name="javafx-swt" level="project" />
+    <orderEntry type="library" name="javase-3.3.0" level="project" />
+    <orderEntry type="library" name="jfoenix" level="project" />
+    <orderEntry type="library" name="jfxtras-agenda-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-all-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-common-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-controls-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-font-roboto-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-fxml-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-gauge-linear-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-icalendaragenda-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-icalendarfx-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-labs-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-menu-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-test-support-8.0-r6" level="project" />
+    <orderEntry type="library" name="jfxtras-window-8.0-r6" level="project" />
+    <orderEntry type="library" name="jplanets-fileutils-1.3" level="project" />
+    <orderEntry type="library" name="jplanets-logging-2.2" level="project" />
+    <orderEntry type="library" name="log4j-1.2.17" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.19" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.23" level="project" />
+    <orderEntry type="library" name="slf4j-api-2.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="zxing" level="project" />
+    <orderEntry type="library" name="zxing-1.7-javase" level="project" />
+    <orderEntry type="library" name="zxing-core-2.0" level="project" />
   </component>
 </module>

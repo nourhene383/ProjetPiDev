@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="javase-3.3.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../JavaFx-master/JavaFx-master/JavaFx_QRCode/library/javase-3.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/JavaFx-master/JavaFx-master/JavaFx_QRCode/library/javase-3.3.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
