@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zxing-j2se-1.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/javafx-qrcode-master/javafx-qrcode-master/libs/zxing-j2se-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

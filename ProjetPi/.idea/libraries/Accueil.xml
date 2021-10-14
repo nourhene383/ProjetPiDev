@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Accueil">
     <CLASSES>
-      <root url="jar://D:/PI-Dev-Integration2/PI-Dev-Integration2/dist/lib/Accueil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Accueil.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

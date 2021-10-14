@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="controlsfx-samples-8.40.13">
     <CLASSES>
-      <root url="jar://D:/PI-Dev-Integration2/PI-Dev-Integration2/dist/lib/controlsfx-samples-8.40.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/controlsfx-samples-8.40.13.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://D:/PI-Dev-Integration2/PI-Dev-Integration2/dist/lib/controlsfx-samples-8.40.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/controlsfx-samples-8.40.13.jar!/" />
     </SOURCES>
   </library>
 </component>

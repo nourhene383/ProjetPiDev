@@ -11,7 +11,7 @@ public class DataBase {
     {
         try {
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost/database", "root", "");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost/aero_space", "root", "");
             return con;
         } catch (ClassNotFoundException | SQLException ex) {
             System.err.println("ConnectionUtil : "+ex.getMessage());
