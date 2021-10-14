@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="proguard">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/javafx-qrcode-master/javafx-qrcode-master/libs/proguard.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
