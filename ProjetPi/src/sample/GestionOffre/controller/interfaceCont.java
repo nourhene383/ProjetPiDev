@@ -5,7 +5,6 @@ import com.google.zxing.WriterException;
 import com.google.zxing.client.j2se.MatrixToImageWriter;
 import com.google.zxing.common.BitMatrix;
 import com.google.zxing.qrcode.QRCodeWriter;
-import connection.DataBase;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
@@ -21,7 +20,8 @@ import javafx.scene.image.WritableImage;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.FileChooser;
 import sample.GestionOffre.models.Offre;
-import sample.models.Offre;
+import sample.connection.DataBase;
+
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayOutputStream;
