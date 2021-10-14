@@ -42,20 +42,6 @@
     <orderEntry type="library" name="zxing-core-2.0" level="project" />
     <orderEntry type="library" name="zxing" level="project" />
     <orderEntry type="library" name="Accueil" level="project" />
-    <orderEntry type="library" name="commons-io-2.4" level="project" />
-    <orderEntry type="library" name="controlsfx-8.40.11" level="project" />
-    <orderEntry type="library" name="Filters" level="project" />
-    <orderEntry type="library" name="fontawesomefx-8.1" level="project" />
-    <orderEntry type="library" name="itextpdf-5.3.4" level="project" />
     <orderEntry type="library" name="javafx-swt" level="project" />
-    <orderEntry type="library" name="javax.mail" level="project" />
-    <orderEntry type="library" name="jfoenix-1.0.0" level="project" />
-    <orderEntry type="library" name="jfoenix-8.0.10" level="project" />
-    <orderEntry type="library" name="pdfbox-app-1.8.16" level="project" />
-    <orderEntry type="library" name="proguard" level="project" />
-    <orderEntry type="library" name="qrgen-1.0" level="project" />
-    <orderEntry type="library" name="TrayTester" level="project" />
-    <orderEntry type="library" name="zxing-core-1.7" level="project" />
-    <orderEntry type="library" name="zxing-j2se-1.7" level="project" />
   </component>
 </module>
