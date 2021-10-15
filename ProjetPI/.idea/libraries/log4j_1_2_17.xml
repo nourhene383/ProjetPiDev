@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="log4j-1.2.17">
-    <CLASSES>
-      <root url="jar://D:/PI-Dev-Integration2/PI-Dev-Integration2/dist/lib/log4j-1.2.17.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

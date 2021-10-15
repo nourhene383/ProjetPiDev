@@ -1,9 +1,46 @@
 <component name="libraryTable">
   <library name="Accueil">
     <CLASSES>
-      <root url="jar://D:/PI-Dev-Integration2/PI-Dev-Integration2/dist/lib/Accueil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Accueil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/bridj-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/AnimateFX-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/controlsfx-8.40.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/controlsfx-8.40.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/controlsfx-samples-8.40.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/fxsampler-1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/itextpdf-5.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/JavaFileUploader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfoenix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-agenda-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-all-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-common-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-controls-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-font-roboto-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-fxml-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-gauge-linear-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-icalendaragenda-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-icalendarfx-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-labs-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-menu-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-test-support-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfxtras-window-8.0-r6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jplanets-fileutils-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jplanets-logging-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/mysql-connector-java-8.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-api-1.7.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-api-2.0.0-alpha1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/webcam-capture-0.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/zxing-1.7-javase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/zxing-core-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/zxing.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../lib/controlsfx-samples-8.40.13.jar!/" />
+    </SOURCES>
   </library>
 </component>

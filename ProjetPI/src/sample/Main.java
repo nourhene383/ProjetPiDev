@@ -14,7 +14,7 @@ public class Main extends Application {
     private double yOffset = 0;
     @Override
     public void start(Stage primaryStage) throws Exception{
-        Parent root = FXMLLoader.load(getClass().getResource("view/DashFX.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("GestionHotel/Gest_hotel.fxml"));
         primaryStage.initStyle(StageStyle.TRANSPARENT);
 
         //grab your root here
