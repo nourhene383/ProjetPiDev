@@ -16,7 +16,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane style="-fx-background-radius: 20;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GestionHotel.abc">
+<AnchorPane style="-fx-background-radius: 20;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GestionHotel.Controller">
     <children>
         <AnchorPane fx:id="g" layoutX="2.0" layoutY="-13.0" prefHeight="848.0" prefWidth="1347.0" style="-fx-background-color: #030307; -fx-background-radius: 15;">
             <children>

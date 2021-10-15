@@ -184,7 +184,7 @@ public class Controller implements Initializable {
             rs =st.executeQuery(query);
             Hotel hotel;
             while (rs.next()){
-                hotel =new Hotel(rs.getInt("id"), rs.getString("nom"),rs.getInt("etoile"), rs.getString("lieu"), rs.getString("hebergement"), rs.getString("Path_image"),rs.getString("Path_video"),rs.getString("chambre"));
+                hotel =new Hotel(rs.getInt("idH"), rs.getString("nom"),rs.getInt("etoile"), rs.getString("lieu"), rs.getString("hebergement"), rs.getString("Path_image"),rs.getString("Path_video"),rs.getString("chambre"));
                 hotelList.add(hotel);
             }
         } catch (Exception ex) {
@@ -213,7 +213,7 @@ public class Controller implements Initializable {
 
 
     private void update () {
-        String query = "UPDATE hotel SET id="+ Id_hotel_bad.getText()+",nom='"+ Nom_hotel_bad.getText() +"',etoile="+Etoilet_hotel_bad.getText()+",hebergement='"+Heb_hotel_bad.getText()+"',lieu='"+Lieu_Hotel_bad.getText()+"'   WHERE id = " + Id_hotel_bad.getText() + " ";
+        String query = "UPDATE hotel SET idH="+ Id_hotel_bad.getText()+",nom='"+ Nom_hotel_bad.getText() +"',etoile="+Etoilet_hotel_bad.getText()+",hebergement='"+Heb_hotel_bad.getText()+"',lieu='"+Lieu_Hotel_bad.getText()+"'   WHERE id = " + Id_hotel_bad.getText() + " ";
         executeQuery(query);
         showhotel();
         search_hotel();
@@ -221,7 +221,7 @@ public class Controller implements Initializable {
 
 
     private void delete(){
-        String query ="DELETE FROM hotel WHERE id ="+Id_hotel_bad.getText()+"";
+        String query ="DELETE FROM hotel WHERE idH ="+Id_hotel_bad.getText()+"";
         executeQuery(query);
         showhotel();
     }
