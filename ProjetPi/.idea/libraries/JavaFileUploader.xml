@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="JavaFileUploader">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../lib/JavaFileUploader.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
