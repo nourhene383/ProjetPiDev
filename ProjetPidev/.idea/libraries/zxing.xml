@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zxing">
+    <CLASSES>
+      <root url="jar://D:/PI-Dev-Integration2/PI-Dev-Integration2/dist/lib/zxing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
