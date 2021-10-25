@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="251.0" prefWidth="514.0" style="-fx-background-color: black; -fx-background-radius: 40;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.AymenJbara.Service.Controller">
+   <children>
+      <VBox layoutX="-1.0" prefHeight="251.0" prefWidth="250.0" style="-fx-background-color: #ffff00; -fx-background-radius: 40;">
+         <children>
+            <VBox prefHeight="55.0" prefWidth="250.0">
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="ONLINE" wrappingWidth="102.93670463562012">
+                     <VBox.margin>
+                        <Insets left="80.0" top="20.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font name="Felix Titling" size="24.0" />
+                     </font>
+                  </Text>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="PAYMENT" wrappingWidth="115.73681449890137">
+                     <VBox.margin>
+                        <Insets left="70.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font name="Felix Titling" size="24.0" />
+                     </font>
+                  </Text>
+               </children>
+            </VBox>
+            <HBox prefHeight="56.0" prefWidth="250.0">
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="WELCOME" wrappingWidth="126.13672065734863">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </Text>
+                  <Text fx:id="User" strokeType="OUTSIDE" strokeWidth="0.0" text="User" wrappingWidth="101.3367862701416">
+                     <font>
+                        <Font size="36.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </Text>
+               </children>
+               <padding>
+                  <Insets left="20.0" top="30.0" />
+               </padding>
+               <VBox.margin>
+                  <Insets top="-20.0" />
+               </VBox.margin>
+            </HBox>
+            <ImageView fitHeight="78.0" fitWidth="226.0" pickOnBounds="true" preserveRatio="true" style="-fx-rotate: 10;">
+               <image>
+                  <Image url="@../../../../../paye.jpeg" />
+               </image>
+               <VBox.margin>
+                  <Insets left="10.0" top="10.0" />
+               </VBox.margin>
+            </ImageView>
+         </children>
+      </VBox>
+      <VBox layoutX="247.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0" />
+      <Button fx:id="payment" layoutX="425.0" layoutY="176.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="72.0" style="-fx-background-color: #a1ac0a; -fx-background-radius: 30;" text="payment" textFill="#10100c" />
+      <Button fx:id="archive" layoutX="270.0" layoutY="176.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="72.0" style="-fx-background-color: #2ba403; -fx-background-radius: 30;" text="Archive " textFill="#151814" />
+      <TextField fx:id="code_paiement1" layoutX="269.0" layoutY="111.0" prefHeight="38.0" prefWidth="228.0" promptText="Code" style="-fx-background-radius: 20;" />
+      <TextField fx:id="N_carte" layoutX="269.0" layoutY="39.0" prefHeight="38.0" prefWidth="228.0" promptText="N° carte" style="-fx-background-radius: 20;" />
+   </children>
+</AnchorPane>
