@@ -1002,9 +1002,9 @@
                                     </HBox>
                                     <TextField layoutX="606.0" layoutY="39.0" promptText="Search" />
                                     <ComboBox layoutX="837.0" layoutY="39.0" prefWidth="150.0" promptText="Choix de tableau" />
-                                    <Button fx:id="btninsertClient1" layoutX="159.0" layoutY="473.0" mnemonicParsing="false" onAction="#handleButtonAction1" text="Ajouter" />
-                                    <Button fx:id="btnupdateClient1" layoutX="251.0" layoutY="474.0" mnemonicParsing="false" onAction="#handleButtonAction1" text="Modifier" />
-                                    <Button fx:id="btndeleteClient1" layoutX="348.0" layoutY="474.0" mnemonicParsing="false" onAction="#handleButtonAction1" text="supprimer" />
+                                    <Button fx:id="btninsertClient" layoutX="159.0" layoutY="473.0" mnemonicParsing="false" onAction="#handleButtonAction1" text="Ajouter" />
+                                    <Button fx:id="btnupdateClient" layoutX="251.0" layoutY="474.0" mnemonicParsing="false" onAction="#handleButtonAction1" text="Modifier" />
+                                    <Button fx:id="btndeleteClient" layoutX="349.0" layoutY="474.0" mnemonicParsing="false" onAction="#handleButtonAction1" text="supprimer" />
                                     <HBox layoutX="13.0" layoutY="5.0" prefHeight="34.0" prefWidth="194.0" style="-fx-background-color: rgba(0,162,211,0.3); -fx-background-radius: 10;">
                                        <children>
                                           <Label fx:id="id_fac" prefHeight="34.0" prefWidth="142.0">
