@@ -63,7 +63,7 @@
             </HBox>
             <ImageView fitHeight="78.0" fitWidth="226.0" pickOnBounds="true" preserveRatio="true" style="-fx-rotate: 10;">
                <image>
-                  <Image url="@../../../../../paye.jpeg" />
+                  <Image url="@../../../resources/paye.jpeg" />
                </image>
                <VBox.margin>
                   <Insets left="10.0" top="10.0" />
